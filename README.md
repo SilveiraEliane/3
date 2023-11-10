@@ -70,18 +70,12 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Atualização Jira;
 - [x] Tratamento dos dados no Excel;
 - [x] Finalizada a etapa e e não aprovada.
+![image](https://github.com/SilveiraEliane/3/assets/134539033/bce1998e-09bf-4d3c-9bb3-e7ad26f463a0)
 
-      GRÁFICO DE PRODUTIVIDADE DO TRANSPORTE POR 12 MESES
-  ![image](https://github.com/SilveiraEliane/3/assets/134539033/10abd928-c37a-4924-aaee-324011da1ad9)
 
-      GRÁFICO DE INPUT/OUTPUT DA CAPACIDADE EM % 
-![image](https://github.com/SilveiraEliane/3/assets/134539033/7d26dde5-6ca0-4e1c-bb7b-d3ab5be7edfc)
+![image](https://github.com/SilveiraEliane/3/assets/134539033/8febccee-fd2f-45bc-b4d8-75b757a249ab)
 
-      GRÁFICO DE INPUT/OUTPUT VALOR/KM RODADO 
-![image](https://github.com/SilveiraEliane/3/assets/134539033/fe5c1c6b-82c5-424d-99a2-cfccf478ffc6)
 
-      GRÁFICO DE VALORES
-![image](https://github.com/SilveiraEliane/3/assets/134539033/2d7c430a-aaf7-4ad7-a565-984e15ec77dd)
 
 
 
