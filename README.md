@@ -24,8 +24,8 @@ Sprint | Previsão | Status|
 |Kick Off | 09/05/2023 | Concluido|
 |00 | 10/03/2023 | Concluido|
 |01|  10/24/2023| Concluído|
-|02| 11/07/2023 | a desenvolver|
-
+|02| 11/07/2023 | Concluído|
+|03| 11/XX/2023 | a desenvolver|
 
 
 
@@ -60,20 +60,15 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 # Backlog do produto
 
 ## Sprint 0. Concepção
-- [x] Definição da equipe;
-- [x] Escolha do Scrum Master e P.O;
-- [x] Reunião de Brainstorm;
 - [x] Criação Jira 3º Semestre;
 - [x] Desenvolvimento do Github;
-- [x] Pesquisa sobre roteirização;
 - [x] Finalizada a etapa e e aprovada.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Desenvolver Github;
-- [x] Perguntas ao Cliente;
-- [x] Alimentar Jira;
+- [x]  Desenvolvimento Github;
+- [x] Atualização Jira;
 - [x] Tratamento dos dados no Excel;
-- [ ] Finalizada a etapa e e aprovada.
+- [x] Finalizada a etapa e e não aprovada.
 
       GRÁFICO DE PRODUTIVIDADE DO TRANSPORTE POR 12 MESES
   ![image](https://github.com/SilveiraEliane/3/assets/134539033/10abd928-c37a-4924-aaee-324011da1ad9)
@@ -91,14 +86,20 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
     
 ## Sprint 2 . Implementação
-- [ ] Github;
-- [ ] Refinamento dos dados no excel;
-- [ ] Análise das rotas;
-- [ ] Perguntas ao Cliente;
-- [ ] Modelagem dos dados;
-- [ ] Desenvolver Power BI;
-- [ ] Finalizada a etapa e e aprovada;
+- [x] Harmonização Github;
+- [x] Refinamento dos dados no excel;
+- [x] Análise das rotas;
+- [x] Modelagem dos dados;
+- [x] Aprimoramento Power BI;
+- [x] Finalizada a etapa e e aprovada;
 
+## Sprint 3 . Finalização
+- [] xxxxxxx;
+- [] xxxxxxxx;
+- [] xxxxxxxx;
+- [] xxxxxxxxx;
+- [] xxxxxxxxx;
+- [] Finalizada a etapa e e aprovada;
       
 ## Hard Skill.
 
