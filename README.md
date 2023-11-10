@@ -84,8 +84,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 
 
-## Sprint 1. Desenvolvimento do Projeto    
-## Sprint 2 . Implementação
+## Sprint 2. Implementação    
 - [x] Harmonização Github;
 - [x] Refinamento dos dados no excel;
 - [x] Análise das rotas;
@@ -93,7 +92,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Aprimoramento Power BI;
 - [x] Finalizada a etapa e e aprovada;
 
-## Sprint 3 . Finalização
+## Sprint 3. Finalização 
 - [] xxxxxxx;
 - [] xxxxxxxx;
 - [] xxxxxxxx;
