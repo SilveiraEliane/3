@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/a291de07-04cb-41c1-af2a-2ddfa02a8e0d)![image](https://github.com/SilveiraEliane/3/assets/134539033/219813dd-9844-431f-88d1-f85fa6408d1e)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/f92ae89e-2000-42cc-ac02-ae579ba23143)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/e8d16c64-977f-4cfb-aa67-d45e3e51fc6a)
+![image](https://github.com/SilveiraEliane/3/assets/134539033/486a68a3-8975-4571-8e04-732a202fb8fa)
 
 
 
@@ -106,15 +107,13 @@ Adaptação às novas Tecnologias
 
 ## Soft Skill.
 
-* Trabalho em Equipe a ser desenvolvida;
-* Liderança;
+* Trabalho em Equipe;
 * Convivência;
 * Colaboração;
 * Proatividade;
 * Gestão de tempo;
 * Solução de Problemas;
 * Flexibilidade;
-* Lidar com pressão;
 * Autoconfiança;
 * Adaptabilidade;
 * Pensamento Crítico;
@@ -134,7 +133,7 @@ Adaptação às novas Tecnologias
 
 # Agradecimentos
 
-Professor Jean por sua disponibilidade e Profissionalismo e ao professor Marcus por nos incentivar a buscar a excelência
+Professor Jean por sua disponibilidade e Profissionalismo e ao professor Marcus por nos incentivar a buscar a excelência.
 
 
 # Informações Exras Sobre o Transporte Rodoviário
