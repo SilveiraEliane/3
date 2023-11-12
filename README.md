@@ -35,7 +35,7 @@ Projeto de análise de produtividade, de otimização de distribuição e de cus
 Criação e modelagem de um banco de dados em SQL;
 Criação de um visualizador de indicadores em power BI;
 Aplicação do método de transportes para otimização da distribuição.
-Problema a ser estudado:
+Problema a ser resolvido:
 Menor custo do transporte
 
 
@@ -87,7 +87,15 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Análise das rotas;
 - [x] Modelagem dos dados;
 - [x] Aprimoramento Power BI;
-- [x] Finalizada a etapa e e aprovada;
+- [ ] Finalizada a etapa e e aprovada;
+
+Tabela 1: Valor Frete (cada planta para todas os clientes)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/2b180640-a9e8-4fbf-a0d6-f198b87faae1)
+
+
+
+
 
 ## Sprint 3. Finalização 
 - [] xxxxxxx;
