@@ -70,6 +70,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Atualização Jira;
 - [x] Tratamento dos dados no Excel;
 - [x] Finalizada a etapa e e não aprovada.
+
+
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/bce1998e-09bf-4d3c-9bb3-e7ad26f463a0)
 
 
