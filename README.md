@@ -71,9 +71,11 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Tratamento dos dados no Excel;
 - [x] Finalizada a etapa e e não aprovada.
 
+Figura 01- P12 Quantidade Transportada(Anual)
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/bce1998e-09bf-4d3c-9bb3-e7ad26f463a0)
 
+Figura 02- P24 Quantidade Transportada(Anual)
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/8febccee-fd2f-45bc-b4d8-75b757a249ab)
 
@@ -93,7 +95,16 @@ Tabela 1: Valor Frete (cada planta para todas os clientes)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/2b180640-a9e8-4fbf-a0d6-f198b87faae1)
 
 
+Figura 03- Análise Otimização Rotas
 
+![image](https://github.com/SilveiraEliane/3/assets/134539033/0baac3d0-5496-4233-88e8-a6c1bbfebb43)
+
+Figura 04- Análise 2 Otimização Rotas
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/b9a6152f-35df-4d94-8c77-27fd26311554)
+
+
+https://app.powerbi.com/groups/me/reports/1b5f4b17-780a-4085-932b-1ce498d57319/ReportSection?experience=power-bi
 
 
 ## Sprint 3. Finalização 
