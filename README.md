@@ -84,9 +84,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ## Sprint 2. Implementação    
 - [x] Harmonização Github;
 - [x] Refinamento dos dados no excel;
-- [x] Análise das rotas;
-- [x] Modelagem dos dados;
-- [x] Aprimoramento Power BI;
+- [x] Análise das rotas no dashboard Power BI;
+- [x] Customização dos dados no MySQL;
 - [ ] Finalizada a etapa e e aprovada;
 
 Tabela 1: Valor Frete (cada planta para todas os clientes)
@@ -98,11 +97,10 @@ Tabela 1: Valor Frete (cada planta para todas os clientes)
 
 
 ## Sprint 3. Finalização 
-- [] xxxxxxx;
-- [] xxxxxxxx;
-- [] xxxxxxxx;
-- [] xxxxxxxxx;
-- [] xxxxxxxxx;
+- [] Aprimoramento MySQL;
+- [] Finalização Dados no Jira;
+- [] Finalização Github;
+- [] Entrega do resultado da melhor rota;
 - [] Finalizada a etapa e e aprovada;
       
 ## Hard Skill.
