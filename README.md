@@ -100,7 +100,7 @@ Tabela 1: Valor Frete (cada planta para todas os clientes)
 - [] Aprimoramento MySQL;
 - [] Finalização Dados no Jira;
 - [] Finalização Github;
-- [] Entrega do resultado da melhor rota;
+- [] Entrega do resultado da melhores rotas e menores custos;
 - [] Finalizada a etapa e e aprovada;
       
 ## Hard Skill.
