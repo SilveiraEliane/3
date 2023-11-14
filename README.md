@@ -25,7 +25,7 @@ Sprint | Previsão | Status|
 |00 | 10/03/2023 | Concluido|
 |01|  10/24/2023| Concluído|
 |02| 11/07/2023 | Concluído|
-|03| 11/XX/2023 | a desenvolver|
+|03| 12/05/2023 | a desenvolver|
 
 
 
