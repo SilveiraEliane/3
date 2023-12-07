@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 
 
-# Backlog do produto
+# BACKLOG DO PRODUTO
 
 ## Sprint 0. Concepção
 - [x] Criação Jira 3º Semestre;
@@ -106,7 +106,6 @@ Figura 04- Análise 2 Otimização Rotas
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/b9a6152f-35df-4d94-8c77-27fd26311554)
 
 
-https://app.powerbi.com/groups/me/reports/1b5f4b17-780a-4085-932b-1ce498d57319/ReportSection?experience=power-bi
 
 
 ## Sprint 3. Finalização 
@@ -115,7 +114,21 @@ https://app.powerbi.com/groups/me/reports/1b5f4b17-780a-4085-932b-1ce498d57319/R
 - [] Finalização Github;
 - [] Entrega do resultado da melhores rotas e menores custos;
 - [] Finalizada a etapa e e aprovada;
-      
+
+  
+Tabela 02xxxxx
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/e1e7632d-1b2d-4bc6-9615-b86972c8da1a)
+
+Figura 05 xxxxx
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/ceb30cd7-66f5-4a45-b6bc-fdd620722ae1)
+
+Figura 06 xxxxx
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/b92997f2-83a7-4a85-81a1-002a3305a0e3)
+
+     
 ## Hard Skill.
 
 Adaptação às novas Tecnologias
@@ -143,8 +156,7 @@ Adaptação às novas Tecnologias
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Eliane         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Douglas |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-        |
+| Scrum Master  | Douglas |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     
 
 # Agradecimentos
 
