@@ -25,7 +25,7 @@ Sprint | Previsão | Status|
 |00 | 10/03/2023 | Concluido|
 |01|  10/24/2023| Concluído|
 |02| 11/07/2023 | Concluído|
-|03| 12/05/2023 | a desenvolver|
+|03| 12/08/2023 | Concluído|
 
 
 
@@ -54,6 +54,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/f92ae89e-2000-42cc-ac02-ae579ba23143)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/e8d16c64-977f-4cfb-aa67-d45e3e51fc6a)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/486a68a3-8975-4571-8e04-732a202fb8fa)
+![image](https://github.com/SilveiraEliane/3/assets/134539033/2c1ffe50-59e4-4cc5-bf66-72248fb12c23)
+![Python](https://github.com/SilveiraEliane/3/assets/134539033/0f0e7389-ba9e-44cb-9d52-759f38b193a7)
 
 
 
@@ -69,7 +71,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x]  Desenvolvimento Github;
 - [x] Atualização Jira;
 - [x] Tratamento dos dados no Excel;
-- [x] Finalizada a etapa e e não aprovada.
+- [x] Finalizada a etapa e aprovada.
 
 Figura 01- P12 Quantidade Transportada(Anual)
 
@@ -88,7 +90,7 @@ Figura 02- P24 Quantidade Transportada(Anual)
 - [x] Refinamento dos dados no excel;
 - [x] Análise das rotas no dashboard Power BI;
 - [x] Customização dos dados no MySQL;
-- [ ] Finalizada a etapa e e aprovada;
+- [x] Finalizada a etapa e e aprovada;
 
 Tabela 1: Valor Frete (cada planta para todas os clientes)
 
