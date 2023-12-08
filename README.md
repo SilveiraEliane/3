@@ -109,22 +109,27 @@ Figura 04- Análise 2 Otimização Rotas
 
 
 ## Sprint 3. Finalização 
-- [] Aprimoramento MySQL;
-- [] Finalização Dados no Jira;
-- [] Finalização Github;
-- [] Entrega do resultado da melhores rotas e menores custos;
+- [x] Aprimoramento MySQL;
+- [x] Finalização Dados no Jira;
+- [x] Finalização Github;
+- [x] Utilização da Python para otimização dos custos;
+- [x] Entrega do resultado da melhores rotas e menores custos;
 - [] Finalizada a etapa e e aprovada;
 
   
-Tabela 02xxxxx
+Tabela 02-Tratamento de dados em MYSQL
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/e1e7632d-1b2d-4bc6-9615-b86972c8da1a)
 
-Figura 05 xxxxx
+Tabela 03-Tratamento de dados em MYSQL
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/63d6df02-74d8-4fcd-b57b-2ab6de6a3714)
+
+Figura 05-Análise da Quantidade de transporte e Produtividade
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/ceb30cd7-66f5-4a45-b6bc-fdd620722ae1)
 
-Figura 06 xxxxx
+Figura 06-Análise dos Custos das rotas de distribuição(Fabricantes)
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/b92997f2-83a7-4a85-81a1-002a3305a0e3)
 
