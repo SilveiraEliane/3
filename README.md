@@ -7,7 +7,7 @@ Projeto na Metodologia Ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Col
 
 * [Projeto](#projetos)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros ](#funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Tecnologias](#tecnologias)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -114,7 +114,7 @@ Figura 04- Análise 2 Otimização Rotas
 - [x] Finalização Github;
 - [x] Utilização da Python para otimização dos custos;
 - [x] Entrega do resultado da melhores rotas e menores custos;
-- [] Finalizada a etapa e e aprovada;
+- [x] Finalizada a etapa e e aprovada;
 
   
 Tabela 02-Tratamento de dados em MYSQL
