@@ -165,15 +165,11 @@ Adaptação às novas Tecnologias
 |Scrum Master |   Douglas     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD_TK40BxyGwx_zxT8cfrQYhHciZSj0aARA&keywords=douglas%20martins&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=a32d8ef3-90be-4f3d-9ee3-38ad4bd726fd&sid=w%40c&spellCorrectionEnabled=true)            |
    
 
-
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Eliane         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Douglas |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     
+   
 
 # Agradecimentos
 
-Professor Jean por sua disponibilidade e Profissionalismo e ao professor Marcus por nos incentivar a buscar a excelência.
+Professor Jean por sua disponibilidade e Profissionalismo e ao professor Marcus por nos incentivar a busca pela excelência.
 
 
 # Informações Exras Sobre o Transporte Rodoviário
