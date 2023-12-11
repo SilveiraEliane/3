@@ -117,7 +117,7 @@ Figura 04- Análise 2 Otimização Rotas
 - [x] Finalizada a etapa e e aprovada;
 
   
-Tabela 02-Tratamento de dados em MYSQL
+Tabela 02-Tratamento de dados em Excel
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/e1e7632d-1b2d-4bc6-9615-b86972c8da1a)
 
